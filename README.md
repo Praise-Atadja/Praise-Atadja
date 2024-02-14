@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm looking forward to collaborating with other software enthusiasts<br>I'm looking for an internship in tech.<br>I'm currently studying Machine Learning.<br>
+I'm looking forward to collaborating with other software enthusiasts<br><br>I'm currently studying Machine Learning.<br>
 
 
 ## 🌐 Socials:
